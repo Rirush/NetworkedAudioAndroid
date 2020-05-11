@@ -4,12 +4,9 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.core.app.ActivityCompat
-import androidx.work.*
 import com.rfnull.networkedaudio.R
 import com.rfnull.networkedaudio.service.NetworkingService
 import com.rfnull.networkedaudio.state.SharedObject
-import com.rfnull.networkedaudio.worker.DiscoveryWorker
-import org.libsodium.jni.keys.KeyPair
 import android.Manifest
 
 class ListenerActivity : AppCompatActivity() {
