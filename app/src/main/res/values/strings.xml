@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Networked Audio</string>
+    <string name="device_name_prompt">Device name</string>
+    <string name="connect_button">Connect</string>
+    <string name="input_prompt">Select microphone:</string>
+    <string name="built_in_mic">Built-in microphone</string>
+    <string name="disabled">Disabled</string>
+    <string name="listen">Listen</string>
+    <string name="bitrate">Bitrate (from 6 to 510)</string>
+    <string name="kilobit_per_second">kbps</string>
+    <string name="awaiting_connections">Awaiting connections...</string>
+</resources>
