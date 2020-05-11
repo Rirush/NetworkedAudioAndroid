@@ -6,6 +6,6 @@ the title
 
 Because I can
 
-## How the hell is this code even worse that Windows?
+## How the hell is this code even worse than Windows?
 
 android is hard, will improve later maybe
